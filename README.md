@@ -68,7 +68,6 @@ Copy code
 
 ### 1️⃣ Clone the Repository
 
-```bash
 git clone https://github.com/Eng-Hari/E-Commerce-fullstack-.git
 cd E-Commerce-fullstack-
 
